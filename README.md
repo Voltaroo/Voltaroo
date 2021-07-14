@@ -12,7 +12,10 @@ _There is not much to see, yet its not empty either!_
   - website language: _English_, _Slovak_, _Czech_, _Russian_ (more is WIP) 
  
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltaroo)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltaroo&count_private=false)
+
+## Github stats
+
+![V0ltaroo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltaroo&count_private=true&theme=dark&show_icons=true)
 
  
 <!--
