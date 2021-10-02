@@ -1,7 +1,6 @@
 ## About me
 
 - student from Slovakia :slovakia:
-- amateur programmer
 - favourite programming language: _Javascript_
 - favourite hobby: _solving crosswords and listening to music_
 
