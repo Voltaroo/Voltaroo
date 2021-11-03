@@ -1,8 +1,6 @@
 ## About me
 
-- student from Slovakia :slovakia:
-- favourite programming language: _Javascript_
-- favourite hobby: _solving crosswords and listening to music_
+- crosswords
 
 ## My work
 _There is not much to see, yet its not empty either!_
