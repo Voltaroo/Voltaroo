@@ -6,7 +6,7 @@
 _There is not much to see, yet its not empty either!_
 
 - creator of [Shorfolk Tavern](https://dso-tavern.eu/#en) which provides simple calculators and useful tools for MMORPG game Drakensang Online 
-  - website language: _English_, _Slovak_, _Czech_, _Russian_ (more is WIP) 
+  - website language: _English_, _Slovak_, _Czech_, _Turkish_ (more is WIP) 
  
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltaroo)](https://github.com/anuraghazra/github-readme-stats) -->
 
